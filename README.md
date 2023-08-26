@@ -22,3 +22,5 @@ This project is a small website that utilizes an API to fetch data and then dyna
 https://www.loom.com/share/d4bfcb9e5f9b4857bfd7cdfe69d6d73c?sid=87c1dffc-1f48-4aee-8b9e-e1297e0306df
 
 ## Hosted version
+
+https://aristide-gallery.netlify.app/
