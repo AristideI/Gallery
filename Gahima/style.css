@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0.5rem;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+}
+
+.text {
+    width: 70%;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+    flex-direction: column;
+}
+
+.image {
+    width: 30%;
+}
+
+button {
+    width: 120px;
+    height: 30px;
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(127, 127, 255);
+}
+
+img {
+    width: 300px;
+    height: 500px;
+}
+.maindiv{
+    border: 1px solid blue;
+    border-radius: 12px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    
+}
+
+.title, .author {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.boki{
+    object-fit: cover;
+}
